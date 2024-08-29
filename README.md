@@ -1,3 +1,4 @@
+Hi there! 👋🏼
 
 I'm Preeti! I'm aspiring to become a data professional, and I'm all about that hustle to keep learning and growing in the data game. I'm diving into the world of data analysis, even though my formal background didn't exactly lead me down the computer science or statistics path. But guess what? I'm not letting that stop me!
 
